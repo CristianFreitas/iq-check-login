@@ -6,4 +6,4 @@
 
 # Requisitos
 1 - Python - https://www.python.org/downloads/ <br />
-1 - Module iqoptionapi - pip install -U git+git://github.com/Lu-Yi-Hsun/iqoptionapi.git
+1 - Module iqoptionapi - pip install -U git+git://github.com/CristianFreitas/iqoptionapi.git
